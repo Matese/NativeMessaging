@@ -7,8 +7,16 @@
 ```text
 📂examples
 ┣📂native-messaging     - Simple example of how to use native messaging
-┗📂todo                 - TODO
+┗📂csharp-host          - C# host example
 ```
+
+## Testing
+
+- Firefox
+  - To test an extension with [web-ext](https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/), go to extensions’s root directory and type ```web-ext run```.
+
+- Chrome
+  - TODO
 
 ## Further Reading
 

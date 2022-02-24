@@ -1,0 +1,7 @@
+﻿{
+  "name": "ping_ponger",
+  "description": "Example host for native messaging",
+  "path": "path\\to\\ping_ponger.bat",
+  "type": "stdio",
+  "allowed_origins": [ "ping_ponger@example.org" ]
+}
